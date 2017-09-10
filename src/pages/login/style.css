@@ -1,0 +1,16 @@
+.my-login {
+  position: relative;
+  width: 1503px;
+  height: 1040px;
+  overflow: auto;
+}
+.my-login .bg-img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1000;
+  background: url('img/后台-登录.png');
+  background-size: contain;
+}
