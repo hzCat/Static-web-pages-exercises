@@ -3,7 +3,7 @@ node_modules/
 dist/
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+yarn-error.log*nothing
 
 # Editor directories and files
 .idea
@@ -12,4 +12,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 
-history
+history/
